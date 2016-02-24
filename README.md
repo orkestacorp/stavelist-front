@@ -1,1 +1,2 @@
-#Repository dedicated to front-end webpage
+#Repository dedicated to Stave List web client...
+
